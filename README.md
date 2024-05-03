@@ -7,13 +7,13 @@ Perhaps in the future we should expect updates and increased functionality.
 
 ## You can control camera movements using your mouse and keyboard:
 
-	Mouse Wheel		Changing zoom
+	Mouse Wheel	Changing zoom
 	Mouse Movement 	Changing viewing direction
 	W + A + S + D 	Forward Left Backwards Right
-	Space 			Up
-	Left Shift 		Down
-	1-9				Speed change
-	F12				Entering and exiting full screen mode
+	Space 		Up
+	Left Shift 	Down
+	1-9		Speed change
+	F12		Entering and exiting full screen mode
 
 ## There is also a configuration file (/Settings/Settings.json)!
 
