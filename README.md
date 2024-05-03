@@ -1,6 +1,6 @@
 # 😈Viewer3D😈
 
-**	A program for rendering 3D objects in real time.**
+	A program for rendering 3D objects in real time.
 Works only with .obj files, as it does not use materials or textures.
 The most important thing is that you need an .obj file already with triangulated polygons.
 Perhaps in the future we should expect updates and increased functionality.
