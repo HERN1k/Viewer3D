@@ -1,0 +1,21 @@
+{
+  "programName": "Viewer3D",
+  "viewHeight": 720,
+  "viewWidth": 1280,
+  "updateFrequency": 144,
+  "vsync": "On",
+  "windowState": "Normal",
+
+  "viewingDistance": 1000.0,
+  "polygonMode": "Fill",
+
+  "backgroundColor": "#2e2e2e",
+  "linesScale": 0.0,
+  "cameraPosition": "0.0 7.0 10.0",
+
+  "modelColor": "#f2f3f4",
+  "modelPosition": "0.0 0.0 0.0",
+  "modelRotation": 20.0,
+  "modelScale": 0.05,
+  "modelPath": "/IronMan.obj"
+}
